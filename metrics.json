@@ -1,10 +1,10 @@
 {
-    "BOUNDARY_HELLO_WORLD": {
+    "BOUNDARY_SAMPLE_HELLO_WORLD": {
         "defaultAggregate": "avg",
         "defaultResolutionMS": 1000,
-        "description": "Example metric for the Hello World Boundary meter plugin",
-        "displayName": "Hello World",
-        "displayNameShort": "Hello World",
+        "description": "Example metric for the Hello World Boundary meter plugin(BMC)",
+        "displayName": "Sample Hello World",
+        "displayNameShort": "Sample Hello World",
         "isDisabled": 0,
         "unit": "number"
     }
